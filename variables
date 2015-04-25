@@ -1,0 +1,18 @@
+#!/usr/bin/python
+my_name = 'fulloverride .fulloverride'
+my_age = 22 #here
+my_height = 74 #inches
+my_weight = 330 #ibs
+my_eyes = 'blue'
+my_teeth = 'white'
+my_hair = 'brown'
+
+print "lets talk about %s." % my_name
+print "He's %d inches tall." % my_height
+print "He's %d pounds heavy." % my_weight
+print "Actually that's not too heavy."
+print "hes got %s eyes amd %s hair" % (my_eyes, my_hair)
+print "his teeth are usually %s depending on the coffee." % my_teeth 
+
+print "if i add %d, %d, and %d i get %d." % (
+my_age, my_height, my_weight, my_age + my_height + my_weight)

@@ -1,0 +1,9 @@
+#!/usr/bin/python
+
+from sys import argv
+script, first, second, third = argv
+
+print "The script is called:", script
+print "your first variable is:", first
+print "your second veriable is:", second
+print "your third veriable is:", third

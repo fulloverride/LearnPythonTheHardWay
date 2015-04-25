@@ -1,0 +1,8 @@
+#!/usr/bin/python
+print "The amount of fuck i give"
+print "Fucks", 25 + 24 / 5 
+print "non fucks", 100 -25 * 3 % 4 
+print "Now i will count this shit"
+print 3 + 2 +1 - 5 + 4 % 2 -1 / 4 + 6
+print "is this what i mean",  5 > -2
+print "is it great or equal", 5 >= -2
